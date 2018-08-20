@@ -1,0 +1,5 @@
+[
+  "test_vm.py::test_insert_coin_and_coffee",
+  "test_vm.py::test_next_change_should_be_fifty",
+  "test_vm.py::test_next_error"
+]
